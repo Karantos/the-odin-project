@@ -1,0 +1,13 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.recipe-images {
+    width: 35%;
+    height: 35em;
+}
